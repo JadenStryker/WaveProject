@@ -19,8 +19,6 @@ I still want to try a distance from proper density based aproach, where loss pun
 ![Screen Shot 2023-01-12 at 4 59 07 PM](https://user-images.githubusercontent.com/47921972/212190173-487a8ba0-d81a-4c3f-9013-8b4f2e8c7897.png)
 #### This is for non scaled, and standard MSE
 ![Screen Shot 2023-01-12 at 4 55 22 PM](https://user-images.githubusercontent.com/47921972/212189549-3bb8e6d0-9db7-4780-ad19-bf4fd24222c7.png)
-#### This is for scaled and loss function encouraging higher values in output
+#### This is for scaled and loss function encouraging higher values in output - y_pred
 ![Screen Shot 2023-01-12 at 5 00 01 PM](https://user-images.githubusercontent.com/47921972/212190309-b706945b-d818-4389-9dd3-6b20a6117b9c.png)
-#### this is y_true
-![Screen Shot 2023-01-12 at 5 08 45 PM](https://user-images.githubusercontent.com/47921972/212191716-cd94f52b-32f1-43d6-b829-742eda87ae7f.png)
-#### this is y_pred
+#### This is y_true
