@@ -16,8 +16,11 @@ The first issue that arose is the density of a spectogram, Very little of the wa
 
 I still want to try a distance from proper density based aproach, where loss punished the farther away from the average density of actual spectograms
 
-Graph Here
 ![Screen Shot 2023-01-12 at 4 59 07 PM](https://user-images.githubusercontent.com/47921972/212190173-487a8ba0-d81a-4c3f-9013-8b4f2e8c7897.png)
+#### This is for non scaled, and standard MSE
 ![Screen Shot 2023-01-12 at 4 55 22 PM](https://user-images.githubusercontent.com/47921972/212189549-3bb8e6d0-9db7-4780-ad19-bf4fd24222c7.png)
-![Screen Shot 2023-01-12 at 4 59 44 PM](https://user-images.githubusercontent.com/47921972/212190251-6a062c46-1ff8-4baf-a54e-33920dcbd15c.png)
+#### This is for scaled and loss function encouraging higher values in output
 ![Screen Shot 2023-01-12 at 5 00 01 PM](https://user-images.githubusercontent.com/47921972/212190309-b706945b-d818-4389-9dd3-6b20a6117b9c.png)
+#### this is y_true
+![Screen Shot 2023-01-12 at 5 08 45 PM](https://user-images.githubusercontent.com/47921972/212191716-cd94f52b-32f1-43d6-b829-742eda87ae7f.png)
+#### this is y_pred
