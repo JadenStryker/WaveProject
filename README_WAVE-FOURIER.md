@@ -3,6 +3,7 @@ features of differnet classes of waves look relativly the same. I also then comp
 would improve
 
 ### Class Distribution
+
 ![Unknown-35](https://user-images.githubusercontent.com/47921972/212576559-aebb0fcc-175d-40d0-85aa-24adcc1a07e9.png)
 
 
@@ -40,4 +41,4 @@ Results:
 
 
 We can first observe that the model is able to classify with a decent accuracy. 
-We see also how the fourier transform has a noticable improvement of about 10% over just the wave. 
+We see also how the fourier transform has a noticable improvement of about 7% over just the wave. 
