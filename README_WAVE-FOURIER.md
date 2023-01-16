@@ -3,8 +3,7 @@ features of differnet classes of waves look relativly the same. I also then comp
 would improve
 
 ### Class Distribution
-
-![Unknown-35](https://user-images.githubusercontent.com/47921972/212576559-aebb0fcc-175d-40d0-85aa-24adcc1a07e9.png)
+![Screen Shot 2023-01-15 at 9 21 38 PM](https://user-images.githubusercontent.com/47921972/212584944-04a5b60d-f88b-4896-8827-042d4489f7f2.png)
 
 
 ### Acoustic and Acoustic Fourier
