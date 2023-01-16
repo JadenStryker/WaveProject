@@ -41,3 +41,5 @@ Results:
 
 We can first observe that the model is able to classify with a decent accuracy. 
 We see also how the fourier transform has a noticable improvement of about 7% over just the wave. 
+
+It would be interesting to see how a RNN would preform on this task
